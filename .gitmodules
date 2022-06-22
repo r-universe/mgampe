@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "detectR"]
+	path = detectR
+	url = https://github.com/mgampe/detectr
+	shallow = true
+	registered = true
